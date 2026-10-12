@@ -39,6 +39,7 @@ This list currently focuses on libraries, tutorials, books and other resources f
 * [Gameplay](#gameplay)
 * [Hardware](#hardware)
 * [Open Source Games](#open-source-games)
+* [Forks](#forks)
 
 # Learning
 
@@ -423,3 +424,7 @@ _Organized by lines of code count._
 * [Princess Rescue by Chris Spry](https://forums.atariage.com/topic/215171-princess-rescue-batari-basic-source-code/) 👾: A “Super Mario style” game.  (3,000 lines)
 
 * [1942 by Wolfgang Stubig](https://github.com/Al-Nafuur/1942-bB) 👾: In 1984 a great shoot 'em up was released for the Arcade by Capcom and that game was 1942. This is a port for the 2600 written in Batari Basic. (6,000 lines)
+
+## Forks
+
+* [Atarius Maximus](https://github.com/AtariusMaximus/batari-Basic) ![GitHub stars](https://img.shields.io/github/stars/AtariusMaximus/batari-Basic?cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/AtariusMaximus/batari-Basic?cacheSeconds=86000): Over the past week or so, I've been tinkering under the hood of batariBasic to see how hard it would be to bake some modern quality-of-life features and syntax shortcuts directly into the compiler.  That experiment turned into a complete custom fork.  To be clear, this is a personal experimental project right now with no plans to disrupt the official bB release stream.  I thought it would be nice to have true if...then...endif blocks and built in support for debouncing joystick movement and button presses, among other things.  I added some sample programs to the samples directory to demonstrate the new features.  More information is being tracked on an [AtariAge post](https://forums.atariage.com/topic/393347-bataribasic-amax-branch-new-features-commands-block-ifs-debouncing-switch-cases-more/).
