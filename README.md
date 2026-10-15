@@ -22,7 +22,7 @@ This repo's goal is to "organize the chaos" to make finding information easier w
 
 The site tracks:
 - [batari Basic](batari.md) for creating Atari 2600 games in BASIC.
-- 7800basic for creating Atari 2600 games in BASIC.
+- [7800basic](7800basic.md) for creating Atari 7800 games in BASIC.
 - creating games in Assembly language
 
 Currently most of the content is for batari Basic.
@@ -49,10 +49,13 @@ Currently most of the content is for batari Basic.
   * [Publishing](#publishing)
   * [Hardware](#hardware)
 * [2600](#2600)
-  * [2600 Graphics Tools](#2600-graphics-tools)
-  * [2600 Sound Tools](#2600-sound-tools)
-  * [2600 Hardware](#2600-hardware)
+  * [Graphics](#2600-graphics)
+  * [Sound](#2600-sound)
+  * [Hardware](#2600-hardware)
 * [7800](#7800)
+  * [Graphics](#7800-graphics)
+  * [Sounds](#7800-sound)
+  * [Text](#7800-text)
 * [Language Specific Pages](#language-specific-pages)
   * [batari Basic](batari.md)
     * [Basic Language Concepts](batari.md##basic-language-concepts)
@@ -133,7 +136,7 @@ Currently most of the content is for batari Basic.
 
 ## 2600
 
-### 2600 Graphics Tools
+### 2600 Graphics
 
 * [PlayerPal 2600 by Kirk Isreal](https://alienbill.com/2600/playerpalnext.html) 🔨: A javascript-based editor for atari 2600 graphics, use your mouse to paint on the main canvas.
 
@@ -141,7 +144,7 @@ Currently most of the content is for batari Basic.
 
 * [Yaja 2600 Painter by Yaha Studio](https://yajastudio.com/tools) 🔨: Design playfield art and animations for the Atari 2600. Create striking visuals with tools that make the console’s limitations easier to work with.
 
-### 2600 Sound Tools
+### 2600 Sound
 
 * [Atari 2600 Music And Sound Programming Guide by Paul Slocum](https://www.qotile.net/files/2600_music_guide.txt) 📄: It is difficult to do music on the Atari 2600 due to the limited pitch and two voices, but I've discovered some tricks to produce some pretty good music.  This document covers most of what I know. The intended audience is Atari 2600 programmers of any level and musicians who wish to write music for the 2600.  You don't need to know programming to write music for the 2600 (although it helps).  My website has a 2600 music kit you can download with a 2600 music driver and detailed instructions on how to write your own music data files for it along with some examples.  If you're new to 2600 programming, you'll probably want to take a look at my music kit before jumping into this guide.
 
@@ -175,6 +178,25 @@ Currently most of the content is for batari Basic.
 
 ## 7800
 
+* [Eagle Tools](https://7800tools.com) 🔨: A variety of 7800 development tools for game development, graphics, audio, debugging and more.
+
+### 7800 Graphics
+
+* [Aseprite](https://www.aseprite.org) 🔨💵: Sprite editor and animator.
+
+* [Maria Painter](https://www.atari.org.pl/informacje/eagle-maria-painter-dla-atari-7800/2723) 📄: Atari 7800 ProSystem has remained in the shadow of eight-bit Atari XL/XE computers for years, and it also lacks such a rich toolbase. Eagle Maria Painter is to change that by offering an advanced online graphics editor, created specifically for the unique MARIA layout and its 160B mode.
+
+### 7800 Sound
+
+* [7000 Jukebox: A simple POKEY music engine with some ported NES songs](https://forums.atariage.com/topic/390663-a-simple-pokey-music-engine-with-some-ported-nes-songs/) 🔨: A lot of 7800 programmers prefer using RMT (Raster Music Tracker) as a way to create their sound files for POKEY.  My approach has been a little different.  The program I have built (the POKEY Jukebox) is rather bare-bones with a focus on keeping RAM / ROM / CPU limited while still trying to sound decent.
+
+* [7800 TIA SFX Library, sound2tia by Mike Saarna](https://forums.atariage.com/topic/301293-7800-tia-sfx-library-sound2tia/) 🕹️: I've expanded the library of sound effects that come with the 7800basic "soundtest" program. Currently there's 116 fairly distinct sound effects.
+
+### 7800 Text
+
+* [Atari Font Maker by Martin Šimeček](https://github.com/matosimi/atari-fontmaker)  🔨: Atari FontMaker is a Windows tool used for creating and editing Atari 8-bit/5200 fonts and font-based graphics.
+
 ## Language Specific Pages
 
 * **[batari Basic](batari.md)**
+* **[7800basic](7800basic.md)**
