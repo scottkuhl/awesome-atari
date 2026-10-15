@@ -38,7 +38,42 @@ Currently most of the content is for batari Basic.
 - 💵: Paid resource
 - 🤖: Artificial Intelligence
 
-# Learning
+## Table of Contents
+
+* [Learning](#learning)
+* [All systems and languages](#all-systems-and-languages)
+  * [Core Development Tools](#core-development-tools)
+  * [More Development Tools](#more-development-tools)
+  * [Notable Works](#notable-works)
+  * [Game Design](#game-design)
+  * [Publishing](#publishing)
+  * [Hardware](#hardware)
+* [2600](#2600)
+  * [2600 Graphics Tools](#2600-graphics-tools)
+  * [2600 Sound Tools](#2600-sound-tools)
+  * [2600 Hardware](#2600-hardware)
+* [7800](#7800)
+* [Language Specific Pages](#language-specific-pages)
+  * [batari Basic](batari.md)
+    * [Basic Language Concepts](batari.md##basic-language-concepts)
+    * [Advanced Language Concepts](batari.md##advanced-language-concepts)
+    * [Input](batari.md##input)
+       * [Collision](batari.md##collision)
+       * [Movement](batari.md##movement)
+    * [Graphics](batari.md##graphics)
+    * [Playfield](batari.md##playfield)
+       * [Title Screen](batari.md##title-screen)
+       * [Score](batari.md##score)
+    * [Players](batari.md##players)
+    * [Missiles](batari.md##missiles)
+    * [Ball](batari.md##ball)
+    * [Sound](batari.md##sound)
+    * [Text](batari.md##text)
+    * [Gameplay](batari.md##gameplay)
+    * [Open Source Games](batari.md##open-source-games)
+    * [Forks](batari.md##forks)
+
+## Learning
 
 - [ ] Create an account on [AtariAge](https://atariage.com)
 - [ ] Review at least one tutorial or book in the Getting Started section for each language to get a lay of the land
@@ -98,7 +133,7 @@ Currently most of the content is for batari Basic.
 
 ## 2600
 
-## Graphics Tools
+### 2600 Graphics Tools
 
 * [PlayerPal 2600 by Kirk Isreal](https://alienbill.com/2600/playerpalnext.html) 🔨: A javascript-based editor for atari 2600 graphics, use your mouse to paint on the main canvas.
 
@@ -106,7 +141,7 @@ Currently most of the content is for batari Basic.
 
 * [Yaja 2600 Painter by Yaha Studio](https://yajastudio.com/tools) 🔨: Design playfield art and animations for the Atari 2600. Create striking visuals with tools that make the console’s limitations easier to work with.
 
-## Sound Tools
+### 2600 Sound Tools
 
 * [Atari 2600 Music And Sound Programming Guide by Paul Slocum](https://www.qotile.net/files/2600_music_guide.txt) 📄: It is difficult to do music on the Atari 2600 due to the limited pitch and two voices, but I've discovered some tricks to produce some pretty good music.  This document covers most of what I know. The intended audience is Atari 2600 programmers of any level and musicians who wish to write music for the 2600.  You don't need to know programming to write music for the 2600 (although it helps).  My website has a 2600 music kit you can download with a 2600 music driver and detailed instructions on how to write your own music data files for it along with some examples.  If you're new to 2600 programming, you'll probably want to take a look at my music kit before jumping into this guide.
 
@@ -124,7 +159,7 @@ Currently most of the content is for batari Basic.
 
 * [Yaja 2600 Composer by Yaha Studio](https://yajastudio.com/tools) 🔨: Create music and sound effects for the Atari 2600 with our browser-based composer. Create melodies and sound effects with the TIA sound chip's unique tones, then export them for use in your games.
 
-## Hardware
+### 2600 Hardware
 
 * [Making Your Own Atari Game Cartridge by Programmer Dan](https://www.youtube.com/watch?v=MrB4F9vA0vo) 📽️: In this video, I'll show how to make our own Atari 2600 Cartridge from start to finish ourselves.
 
@@ -142,4 +177,4 @@ Currently most of the content is for batari Basic.
 
 ## Language Specific Pages
 
-### [batari Basic](batari.md)
+* **[batari Basic](batari.md)**
