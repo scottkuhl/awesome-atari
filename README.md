@@ -24,7 +24,7 @@ The site tracks:
 - [batari Basic](batari.md) for creating Atari 2600 games in BASIC.
 - [7800basic](7800basic.md) for creating Atari 7800 games in BASIC.
 - [2600 Assembly](2600asm.md) for creating Atari 2600 games in Assembly language.
-- 7800 Assembly for creating Atari 7800 games in Assembly language.
+- [7800 Assembly](7800asm.md) for creating Atari 7800 games in Assembly language.
 
 Currently most of the content is for batari Basic.
 
@@ -62,12 +62,12 @@ Currently most of the content is for batari Basic.
     * [Basic Language Concepts](batari.md##basic-language-concepts)
     * [Advanced Language Concepts](batari.md##advanced-language-concepts)
     * [Input](batari.md##input)
-       * [Collision](batari.md##collision)
-       * [Movement](batari.md##movement)
+      * [Collision](batari.md##collision)
+      * [Movement](batari.md##movement)
     * [Graphics](batari.md##graphics)
     * [Playfield](batari.md##playfield)
-       * [Title Screen](batari.md##title-screen)
-       * [Score](batari.md##score)
+      * [Title Screen](batari.md##title-screen)
+      * [Score](batari.md##score)
     * [Players](batari.md##players)
     * [Missiles](batari.md##missiles)
     * [Ball](batari.md##ball)
@@ -88,7 +88,11 @@ Currently most of the content is for batari Basic.
       * [Books](2600asm.md#books)
       * [Courses](2600asm.md#courses)
       * [Videos](2600asm.md#videos)
-        
+  * [7800 Assembly](7800asm.md)
+    * [Getting Started](7800asm.md#getting-started)
+      * [Videos](7800asm.md#videos)
+    * [Reference](7800asm.md#reference)
+
 ## Learning
 
 - [ ] Create an account on [AtariAge](https://atariage.com)
@@ -214,3 +218,4 @@ Currently most of the content is for batari Basic.
 * **[batari Basic](batari.md)**
 * **[7800basic](7800basic.md)**
 * **[2600 Assembly](2600asm.md)**
+* **[7800 Assembly](7800asm.md)**
