@@ -23,7 +23,8 @@ This repo's goal is to "organize the chaos" to make finding information easier w
 The site tracks:
 - [batari Basic](batari.md) for creating Atari 2600 games in BASIC.
 - [7800basic](7800basic.md) for creating Atari 7800 games in BASIC.
-- creating games in Assembly language
+- [2600 Assembly](2600asm.md) for creating Atari 2600 games in Assembly language.
+- 7800 Assembly for creating Atari 7800 games in Assembly language.
 
 Currently most of the content is for batari Basic.
 
@@ -75,7 +76,19 @@ Currently most of the content is for batari Basic.
     * [Gameplay](batari.md##gameplay)
     * [Open Source Games](batari.md##open-source-games)
     * [Forks](batari.md##forks)
-
+  * [7800basic](7800basic.md)
+    * [Learning](7800basic.md#learning)
+      * [Getting Started](7800basic.md#getting-started)
+    * [Reference](7800basic.md#reference)
+      * [Playfields](7800basic.md#playfields)
+      * [Text](7800basic.md#text)
+  * [2600 Assembly](2600asm.md)
+    * [Learning](2600asm.md#learning)
+      * [Getting Started](2600asm.md#getting-started)
+      * [Books](2600asm.md#books)
+      * [Courses](2600asm.md#courses)
+      * [Videos](2600asm.md#videos)
+        
 ## Learning
 
 - [ ] Create an account on [AtariAge](https://atariage.com)
@@ -200,3 +213,4 @@ Currently most of the content is for batari Basic.
 
 * **[batari Basic](batari.md)**
 * **[7800basic](7800basic.md)**
+* **[2600 Assembly](2600asm.md)**
