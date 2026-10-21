@@ -204,8 +204,6 @@ Note: More purpose-built mini kernels can be found in other sections.
 
 * [LumaBoost by Jonas Carlsson](https://forums.atariage.com/topic/286939-lumaboost-in-bb-example/) 🕹️: A a flicker management system that uses a brighter version of a sprite to offset flickering.
 
-* [QR Code generation by Thomas Jentzsch](https://forums.atariage.com/topic/319259-qr-code-generation/)  🕹️: Audacity Games has proved that it is possible to generate a QR-code on-the-fly using a stock 6507 with 128 bytes of RAM. Since it is currently unlikely that they will share their code (someone should still ask them), we will try do the same. This topic is here to discuss, collect info and hopefully develop a working code which everybody can embed into their own projects.
-
 ## Playfield
 
 * [The Playfield by Fred Quimby](https://www.randomterrain.com/atari-2600-memories-batari-basic-commands.html#playfield) 📚: In the standard kernel, by default, you get a 32 x 11 bitmapped, asymmetric playfield (32 x 12 if you count the hidden row that is only seen if scrolled).
