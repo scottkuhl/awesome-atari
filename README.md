@@ -99,6 +99,8 @@ Currently most of the content is for batari Basic.
       * [Books](2600asm.md#books)
       * [Courses](2600asm.md#courses)
       * [Videos](2600asm.md#videos)
+    * [Reference](2600asm.md#reference)
+      * [Open Source Games](2600asm.md#open-source-games)
   * [7800 Assembly](7800asm.md)
     * [Getting Started](7800asm.md#getting-started)
       * [Videos](7800asm.md#videos)
